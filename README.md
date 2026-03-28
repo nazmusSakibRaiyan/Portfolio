@@ -2,6 +2,9 @@
 
 A simple portfolio website built with React (Vite) + Tailwind CSS.
 
+## Live
+GitHub Pages: https://nazmussakibraiyan.github.io/Portfolio/
+
 ## What’s Included
 - Portfolio UI: Hero, About, Skills, Projects, Designs, Case Study
 - Projects (folders under `projects/`):
